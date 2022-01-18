@@ -32,7 +32,6 @@ public class Bombo {
 
 		while (!hayBola) {
 			try {
-				System.out.println("ALGOOOOOOOOOOOOOOOO");
 				this.wait();
 			} catch (InterruptedException e) {
 				e.printStackTrace();
